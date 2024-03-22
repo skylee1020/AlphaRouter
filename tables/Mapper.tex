@@ -1,0 +1,35 @@
+% Please add the following required packages to your document preamble:
+\documentclass{standalone}
+\usepackage{hhline}
+\usepackage{threeparttable}
+\usepackage{booktabs}
+%\usepackage{showframe}
+\setlength{\tabcolsep}{25pt}
+\setcounter{table}{1}
+
+\begin{document}
+\begin{table}
+    \begin{threeparttable}
+        \caption{Mapper result on 30 days mapping applied to the real world dataset}
+        \centering
+        \begin{tabular}{cccc}                
+            \hline\toprule
+            Method      & DRL\footnote{1} & Greedy\footnote{2} & BFS\footnote{3} \\ \midrule
+            
+            Score (std) & 738.34  & 680.56  & Nan \\
+            Runtime     & 0.01  & 0.01  & $\infty$ \\
+            \bottomrule\hline
+            
+        \end{tabular}
+        
+        \begin{tablenotes}[para,flushleft]
+            \item[1] Deep reinforcement learning \\
+            \item[2] Allocating min subroute to max run vehicle \\
+            \item[3] Breadth first search. Problem size is too big to get the soultion. \\
+        \end{tablenotes}
+            
+    \end{threeparttable}
+    \end{table}
+    \label{tab: Mapper result}
+\end{document}
+

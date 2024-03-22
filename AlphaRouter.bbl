@@ -1,0 +1,216 @@
+\begin{thebibliography}{39}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Agarap(2018)]{agarap2018ReLU}
+A.~F. Agarap.
+\newblock Deep learning using rectified linear units (relu).
+\newblock \emph{arXiv preprint arXiv:1803.08375}, 2018.
+
+\bibitem[Applegate et~al.(03.12.19)Applegate, Bixby, Chv{\'a}tal, and Cook]{applegateConcordeTspSolver2019}
+D.~Applegate, R.~Bixby, V.~Chv{\'a}tal, and W.~Cook.
+\newblock Concorde tsp solver, 03.12.19.
+
+\bibitem[Bello et~al.(2017)Bello, Pham, Le, Norouzi, and Bengio]{belloNeuralCombinatorialOptimization2017}
+I.~Bello, H.~Pham, Q.~V. Le, M.~Norouzi, and S.~Bengio.
+\newblock Neural {{Combinatorial Optimization}} with {{Reinforcement Learning}}, Jan. 2017.
+
+\bibitem[Borcinova(2017)]{CVRPLP}
+Z.~Borcinova.
+\newblock Two models of the capacitated vehicle routing problem, 2017.
+
+\bibitem[Bubeck and {Cesa-Bianchi}(2012)]{bubeckRegretAnalysisStochastic2012}
+S.~Bubeck and N.~{Cesa-Bianchi}.
+\newblock Regret {{Analysis}} of {{Stochastic}} and {{Nonstochastic Multi-armed Bandit Problems}}, Nov. 2012.
+
+\bibitem[Chaslot et~al.(2008)Chaslot, Winands, and van Den~Herik]{parallel_MCTS}
+G.~M.~B. Chaslot, M.~H. Winands, and H.~J. van Den~Herik.
+\newblock Parallel monte-carlo tree search.
+\newblock In \emph{Computers and Games: 6th International Conference, CG 2008, Beijing, China, September 29-October 1, 2008. Proceedings 6}, pages 60--71. Springer, 2008.
+
+\bibitem[Cheng et~al.(2022)Cheng, Misra, Schwing, Kirillov, and Girdhar]{masked_attention}
+B.~Cheng, I.~Misra, A.~G. Schwing, A.~Kirillov, and R.~Girdhar.
+\newblock Masked-attention mask transformer for universal image segmentation.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pages 1290--1299, 2022.
+
+\bibitem[Chowdhery et~al.(2022)Chowdhery, Narang, Devlin, Bosma, Mishra, Roberts, Barham, Chung, Sutton, Gehrmann, et~al.]{chowdhery2022palm}
+A.~Chowdhery, S.~Narang, J.~Devlin, M.~Bosma, G.~Mishra, A.~Roberts, P.~Barham, H.~W. Chung, C.~Sutton, S.~Gehrmann, et~al.
+\newblock Palm: Scaling language modeling with pathways.
+\newblock \emph{arXiv preprint arXiv:2204.02311}, 2022.
+
+\bibitem[Dai et~al.(2018)Dai, Khalil, Zhang, Dilkina, and Song]{daiLearningCombinatorialOptimization2018}
+H.~Dai, E.~B. Khalil, Y.~Zhang, B.~Dilkina, and L.~Song.
+\newblock Learning {{Combinatorial Optimization Algorithms}} over {{Graphs}}, Feb. 2018.
+
+\bibitem[Du et~al.(2022)Du, Xie, Wang, Hu, Zhao, and Liu]{masked_attention2}
+Y.~Du, P.~Xie, M.~Wang, X.~Hu, Z.~Zhao, and J.~Liu.
+\newblock Full transformer network with masking future for word-level sign language recognition.
+\newblock \emph{Neurocomputing}, 500:\penalty0 115--123, 2022.
+\newblock ISSN 0925-2312.
+\newblock \doi{https://doi.org/10.1016/j.neucom.2022.05.051}.
+\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S0925231222006178}.
+
+\bibitem[Fawzi et~al.(2022)Fawzi, Balog, Huang, Hubert, Romera-Paredes, Barekatain, Novikov, Ruiz, Schrittwieser, Swirszcz, Silver, Hassabis, and Kohli]{tensor_mult_RL}
+A.~Fawzi, M.~Balog, A.~Huang, T.~Hubert, B.~Romera-Paredes, M.~Barekatain, A.~Novikov, F.~Ruiz, J.~Schrittwieser, G.~Swirszcz, D.~Silver, D.~Hassabis, and P.~Kohli.
+\newblock Discovering faster matrix multiplication algorithms with reinforcement learning.
+\newblock \emph{Nature}, 610:\penalty0 47--53, 10 2022.
+\newblock \doi{10.1038/s41586-022-05172-4}.
+
+\bibitem[Furnon and Perron(2023)]{ortools}
+V.~Furnon and L.~Perron.
+\newblock Or-tools routing library, 2023.
+\newblock URL \url{https://developers.google.com/optimization/routing/}.
+
+\bibitem[Helsgaun(2017)]{helsgaunExtensionLinKernighanHelsgaunTSP}
+K.~Helsgaun.
+\newblock \emph{An Extension of the Lin-Kernighan-Helsgaun TSP Solver for Constrained Traveling Salesman and Vehicle Routing Problems: Technical report}.
+\newblock Roskilde Universitet, Dec. 2017.
+
+\bibitem[Hottung et~al.(2022)Hottung, Kwon, and Tierney]{hottungEfficientActiveSearch2022}
+A.~Hottung, Y.-D. Kwon, and K.~Tierney.
+\newblock Efficient {{Active Search}} for {{Combinatorial Optimization Problems}}, Mar. 2022.
+
+\bibitem[Kilby et~al.(1998)Kilby, Prosser, and Shaw]{dynamicVRP}
+P.~Kilby, P.~Prosser, and P.~Shaw.
+\newblock Dynamic vrps: A study of scenarios.
+\newblock \emph{University of Strathclyde Technical Report}, 1\penalty0 (11), 1998.
+
+\bibitem[Kingma and Ba(2014)]{kingma2014adam}
+D.~P. Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock \emph{arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem[Kool et~al.(2018)Kool, van Hoof, and Welling]{kool2018attention}
+W.~Kool, H.~van Hoof, and M.~Welling.
+\newblock Attention, learn to solve routing problems!
+\newblock In \emph{International Conference on Learning Representations}, 2018.
+
+\bibitem[Kumar and Panneerselvam(2012)]{kumarSurveyVehicleRouting2012}
+S.~N. Kumar and R.~Panneerselvam.
+\newblock A {{Survey}} on the {{Vehicle Routing Problem}} and {{Its Variants}}, May 2012.
+
+\bibitem[Kwon et~al.(2020)Kwon, Choo, Kim, Yoon, Gwon, and Min]{kwonPOMOPolicyOptimization2021}
+Y.-D. Kwon, J.~Choo, B.~Kim, I.~Yoon, Y.~Gwon, and S.~Min.
+\newblock Pomo: Policy optimization with multiple optima for reinforcement learning, 2020.
+\newblock URL \url{https://proceedings.neurips.cc/paper_files/paper/2020/file/f231f2107df69eab0a3862d50018a9b2-Paper.pdf}.
+
+\bibitem[Kwon et~al.(2021)Kwon, Choo, Yoon, Park, Park, and Gwon]{kwonMatNet}
+Y.-D. Kwon, J.~Choo, I.~Yoon, M.~Park, D.~Park, and Y.~Gwon.
+\newblock Matrix encoding networks for neural combinatorial optimization.
+\newblock \emph{Advances in Neural Information Processing Systems}, 34:\penalty0 5138--5149, 2021.
+
+\bibitem[Lin and Kernighan(1973)]{linEffectiveHeuristicAlgorithm1973}
+S.~Lin and B.~W. Kernighan.
+\newblock An {{Effective Heuristic Algorithm}} for the {{Traveling-Salesman Problem}}.
+\newblock \emph{Operations Research}, 21\penalty0 (2):\penalty0 498--516, 1973.
+\newblock \doi{10.1287/opre.21.2.498}.
+
+\bibitem[Luo et~al.(2023)Luo, Wang, Zhang, Yuan, and Li]{AlphaRouter_AAAI}
+G.~Luo, Y.~Wang, H.~Zhang, Q.~Yuan, and J.~Li.
+\newblock Alpharoute: Large-scale coordinated route planning via monte carlo tree search.
+\newblock \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, 37\penalty0 (10):\penalty0 12058--12067, Jun. 2023.
+\newblock \doi{10.1609/aaai.v37i10.26422}.
+\newblock URL \url{https://ojs.aaai.org/index.php/AAAI/article/view/26422}.
+
+\bibitem[Luong et~al.(2015)Luong, Pham, and Manning]{luongEffectiveApproachesAttentionbased2015}
+M.-T. Luong, H.~Pham, and C.~D. Manning.
+\newblock Effective {{Approaches}} to {{Attention-based Neural Machine Translation}}, Sept. 2015.
+
+\bibitem[Paszke et~al.(2017)Paszke, Gross, Chintala, Chanan, Yang, DeVito, Lin, Desmaison, Antiga, and Lerer]{paszke2017automatic}
+A.~Paszke, S.~Gross, S.~Chintala, G.~Chanan, E.~Yang, Z.~DeVito, Z.~Lin, A.~Desmaison, L.~Antiga, and A.~Lerer.
+\newblock Automatic differentiation in pytorch.
+\newblock 2017.
+
+\bibitem[Rosenkrantz et~al.(1977)Rosenkrantz, Stearns, and II]{nearset_insertion}
+D.~Rosenkrantz, R.~Stearns, and P.~II.
+\newblock An analysis of several heuristics for the traveling salesman problem.
+\newblock \emph{SIAM J. Comput.}, 6:\penalty0 563--581, 09 1977.
+\newblock \doi{10.1137/0206041}.
+
+\bibitem[Schrittwieser et~al.(2020{\natexlab{a}})Schrittwieser, Antonoglou, Hubert, Simonyan, Sifre, Schmitt, Guez, Lockhart, Hassabis, Graepel, Lillicrap, and Silver]{schrittwieserMasteringAtariGo2020}
+J.~Schrittwieser, I.~Antonoglou, T.~Hubert, K.~Simonyan, L.~Sifre, S.~Schmitt, A.~Guez, E.~Lockhart, D.~Hassabis, T.~Graepel, T.~Lillicrap, and D.~Silver.
+\newblock Mastering {{Atari}}, {{Go}}, {{Chess}} and {{Shogi}} by {{Planning}} with a {{Learned Model}}.
+\newblock \emph{Nature}, 588\penalty0 (7839):\penalty0 604--609, Dec. 2020{\natexlab{a}}.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/s41586-020-03051-4}.
+
+\bibitem[Schrittwieser et~al.(2020{\natexlab{b}})Schrittwieser, Antonoglou, Hubert, Simonyan, Sifre, Schmitt, Guez, Lockhart, Hassabis, Graepel, et~al.]{schrittwieser2020mastering}
+J.~Schrittwieser, I.~Antonoglou, T.~Hubert, K.~Simonyan, L.~Sifre, S.~Schmitt, A.~Guez, E.~Lockhart, D.~Hassabis, T.~Graepel, et~al.
+\newblock Mastering atari, go, chess and shogi by planning with a learned model.
+\newblock \emph{Nature}, 588\penalty0 (7839):\penalty0 604--609, 2020{\natexlab{b}}.
+
+\bibitem[Shazeer(2020)]{shazeer2020swiglu}
+N.~Shazeer.
+\newblock Glu variants improve transformer.
+\newblock \emph{arXiv preprint arXiv:2002.05202}, 2020.
+
+\bibitem[Silver et~al.(2016)Silver, Huang, Maddison, Guez, Sifre, {van den Driessche}, Schrittwieser, Antonoglou, Panneershelvam, Lanctot, Dieleman, Grewe, Nham, Kalchbrenner, Sutskever, Lillicrap, Leach, Kavukcuoglu, Graepel, and Hassabis]{silverMasteringGameGo2016}
+D.~Silver, A.~Huang, C.~J. Maddison, A.~Guez, L.~Sifre, G.~{van den Driessche}, J.~Schrittwieser, I.~Antonoglou, V.~Panneershelvam, M.~Lanctot, S.~Dieleman, D.~Grewe, J.~Nham, N.~Kalchbrenner, I.~Sutskever, T.~Lillicrap, M.~Leach, K.~Kavukcuoglu, T.~Graepel, and D.~Hassabis.
+\newblock Mastering the game of {{Go}} with deep neural networks and tree search.
+\newblock \emph{Nature}, 529\penalty0 (7587):\penalty0 484--489, Jan. 2016.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/nature16961}.
+
+\bibitem[Silver et~al.(2017)Silver, Schrittwieser, Simonyan, Antonoglou, Huang, Guez, Hubert, Baker, Lai, Bolton, Chen, Lillicrap, Hui, Sifre, {van den Driessche}, Graepel, and Hassabis]{silverMasteringGameGo2017}
+D.~Silver, J.~Schrittwieser, K.~Simonyan, I.~Antonoglou, A.~Huang, A.~Guez, T.~Hubert, L.~Baker, M.~Lai, A.~Bolton, Y.~Chen, T.~Lillicrap, F.~Hui, L.~Sifre, G.~{van den Driessche}, T.~Graepel, and D.~Hassabis.
+\newblock Mastering the game of {{Go}} without human knowledge.
+\newblock \emph{Nature}, 550\penalty0 (7676):\penalty0 354--359, Oct. 2017.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/nature24270}.
+
+\bibitem[Sinha et~al.(2022)Sinha, Azad, and Singh]{QubitRouting_with_MCTS}
+A.~Sinha, U.~Azad, and H.~Singh.
+\newblock Qubit routing using graph neural network aided monte carlo tree search.
+\newblock \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, 36\penalty0 (9):\penalty0 9935--9943, Jun. 2022.
+\newblock \doi{10.1609/aaai.v36i9.21231}.
+\newblock URL \url{https://ojs.aaai.org/index.php/AAAI/article/view/21231}.
+
+\bibitem[Sutskever et~al.(2014)Sutskever, Vinyals, and Le]{sutskeverSequenceSequenceLearning2014}
+I.~Sutskever, O.~Vinyals, and Q.~V. Le.
+\newblock Sequence to {{Sequence Learning}} with {{Neural Networks}}, Dec. 2014.
+
+\bibitem[Sutton et~al.(1999)Sutton, McAllester, Singh, and Mansour]{suttonPolicyGradientMethods}
+R.~S. Sutton, D.~McAllester, S.~Singh, and Y.~Mansour.
+\newblock Policy gradient methods for reinforcement learning with function approximation.
+\newblock \emph{Advances in neural information processing systems}, 12, 1999.
+
+\bibitem[team(2023)]{pytorchLightning}
+T.~P.~L. team.
+\newblock Pytorch lightning, opensource, 2023.
+\newblock URL \url{https://www.pytorchlightning.ai}.
+\newblock https://github.com/Lightning-AI/lightning.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin]{vaswaniAttentionAllYou2017}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez, L.~Kaiser, and I.~Polosukhin.
+\newblock Attention {{Is All You Need}}, Dec. 2017.
+
+\bibitem[Vidal(2022)]{hybridGeneticSearch_Vidal}
+T.~Vidal.
+\newblock Hybrid genetic search for the cvrp: Open-source implementation and swap* neighborhood.
+\newblock \emph{Computers \& Operations Research}, 140:\penalty0 105643, 2022.
+\newblock ISSN 0305-0548.
+\newblock \doi{https://doi.org/10.1016/j.cor.2021.105643}.
+\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S030505482100349X}.
+
+\bibitem[Vidal et~al.(2012)Vidal, Crainic, Gendreau, Lahrichi, and Rei]{HGS}
+T.~Vidal, T.~G. Crainic, M.~Gendreau, N.~Lahrichi, and W.~Rei.
+\newblock A hybrid genetic algorithm for multidepot and periodic vehicle routing problems.
+\newblock \emph{Operations Research}, 60:\penalty0 611--624, 06 2012.
+\newblock \doi{10.1287/opre.1120.1048}.
+
+\bibitem[Vinyals et~al.(2017)Vinyals, Fortunato, and Jaitly]{vinyalsPointerNetworks2017}
+O.~Vinyals, M.~Fortunato, and N.~Jaitly.
+\newblock Pointer {{Networks}}, Jan. 2017.
+
+\bibitem[Williams(1992)]{williamsREINFORCE}
+R.~J. Williams.
+\newblock Simple statistical gradient-following algorithms for connectionist reinforcement learning.
+\newblock \emph{Mach. Learn.}, 8\penalty0 (3–4):\penalty0 229–256, may 1992.
+\newblock ISSN 0885-6125.
+\newblock \doi{10.1007/BF00992696}.
+\newblock URL \url{https://doi.org/10.1007/BF00992696}.
+
+\end{thebibliography}
